@@ -1,0 +1,8 @@
+abi_version=1.6.0
+builtins_platform=JS
+compiler_version=1.6.10
+depends=org.jetbrains.compose.web\:web-core org.jetbrains.compose.web\:internal-web-core-runtime androidx.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin
+ir_version=1.0.0
+jsOutputName=mobilecafe
+metadata_version=1.4.1
+unique_name=me.ksain\:mobilecafe

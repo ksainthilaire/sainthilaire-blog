@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mobilecafe-js-1.0">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="mobilecafe-js-1.0.jar">
+      <element id="module-output" name="mobilecafe.jsMain" />
+    </root>
+  </artifact>
+</component>
